@@ -1,0 +1,205 @@
+==> Scenario #1: Ticket Counter Output
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+A customer has been served and is now leaving!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+The line for the ticket counter is full, please come back at a later time.
+A customer has been served and is now leaving!
+A new customer has joined the line!
+The line for the ticket counter is full, please come back at a later time.
+
+==> Scenario #2: Bank Service Line Output
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
+A new customer has joined the bank line!
+A bank customer has been served and is now leaving!
+A new customer has joined the bank line!
